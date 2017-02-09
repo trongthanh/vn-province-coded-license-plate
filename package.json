@@ -1,0 +1,18 @@
+{
+  "name": "vn-license-plate",
+  "version": "0.0.0",
+  "description": "License plate lookup data table",
+  "license": "MIT",
+  "config": {
+    "src": ".",
+    "dist": "dist",
+    "assets": "private"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "autoprefixer": "^6.7.2",
+    "eslint": "^3.15.0",
+    "stylelint": "^7.8.0",
+    "stylelint-config-standard": "^16.0.0"
+  }
+}
